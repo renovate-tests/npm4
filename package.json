@@ -2,6 +2,7 @@
   "name": "mismatch",
   "version": "0.0.1",
   "dependencies": {
+    "symmetric-js": "1.0.0",
     "node-sass": "4.11.0"
   }
 }
