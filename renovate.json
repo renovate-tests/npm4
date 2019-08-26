@@ -2,5 +2,6 @@
   "extends": [
     "config:base"
   ],
+  "stabilityDays": 3,
   "masterIssue": true
 }
