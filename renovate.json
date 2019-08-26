@@ -3,5 +3,6 @@
     "config:base"
   ],
   "stabilityDays": 3,
+  "prCreation": "not-pending",
   "masterIssue": true
 }
