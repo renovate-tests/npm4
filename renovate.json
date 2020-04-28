@@ -1,6 +1,7 @@
 {
   "extends": [
-    "config:base"
+    "config:base",
+    "group:workboxMonorepo"
   ],
   "stabilityDays": 3,
   "prCreation": "not-pending",
