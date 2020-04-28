@@ -4,7 +4,7 @@
   "dependencies": {
     "@totally/notexist123": "1.0.0",
     "enzyme-drivers": "3.0.0",
-    "symmetric-js": "1.0.0",
+    "symmetric-js": "1.0.15",
     "node-sass": "4.11.0"
   }
 }
